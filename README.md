@@ -1,6 +1,6 @@
 # ProjetoTasks
 
-#Projeto feito no curso NodeJs 
+<p>Projeto ToDo, podemos adicionar uma tarefa, ler, excluir e alterar.
 <br>
 
 <h2>Iniciar Projeto</h1>
