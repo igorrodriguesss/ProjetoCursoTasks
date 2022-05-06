@@ -14,4 +14,3 @@
 -MySQL2
 
 <h3>Arquitetura do Projeto:<h3>
--MVC(Model-View-Controller)
